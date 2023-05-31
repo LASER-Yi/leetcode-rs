@@ -1,5 +1,6 @@
-pub mod length_of_longest_substring;
-pub mod two_sum;
-pub mod valid_parentheses;
+mod length_of_longest_substring;
+mod reverse_integer;
+mod two_sum;
+mod valid_parentheses;
 
 pub struct Solution {}
