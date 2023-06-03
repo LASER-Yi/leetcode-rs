@@ -1,4 +1,4 @@
-use crate::Solution;
+use super::Solution;
 
 const BARRIER_MAX: i32 = i32::MAX / 10;
 const BARRIER_MIN: i32 = i32::MIN / 10;

@@ -1,4 +1,4 @@
-use crate::Solution;
+use super::Solution;
 
 #[allow(dead_code)]
 impl Solution {

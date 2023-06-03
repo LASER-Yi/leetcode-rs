@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-use crate::Solution;
+use super::Solution;
 
 impl Solution {
     pub fn length_of_longest_substring(s: String) -> i32 {

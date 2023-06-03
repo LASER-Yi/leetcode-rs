@@ -1,4 +1,4 @@
-use crate::Solution;
+use super::Solution;
 
 const OPEN_SYMBOLS: [char; 3] = ['(', '{', '['];
 const CLOSE_SYMBOLS: [char; 3] = [')', '}', ']'];
