@@ -1,3 +1,4 @@
+mod array_sign;
 mod contains_duplicate;
 mod length_of_longest_substring;
 mod reverse_integer;
